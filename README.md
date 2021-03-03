@@ -1,4 +1,4 @@
-An International Covid Tracker that pulls data from an API and displays it using a custom front end.
+An International Covid Tracker that pulls data from an API and displays it using a custom front end using cards and a flat design.
 
 ## Available Scripts
 
